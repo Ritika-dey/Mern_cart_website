@@ -3,8 +3,7 @@ import './App.css';
 import Footer from './components/Footer';
 import Genre from './components/Genre';
 import Navbar from './components/Navbar';
-import Slider from './components/Slider';
-
+import Slider from './components/Slider'; 
 
 function App() {
   return (

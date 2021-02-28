@@ -1,4 +1,5 @@
 import React from 'react'
+import {NavLink} from 'react-router-dom'
 
 function Navbar() {
     return (
@@ -25,9 +26,9 @@ function Navbar() {
                   </form>
                   <div className="collapse navbar-collapse" id="myNavbar">
                     <ul className="nav navbar-nav navbar-right">
-                        <li><a href="#" className="glyphicon glyphicon-home"> Home</a></li>
-                        <li><a href="#"><span className="glyphicon glyphicon-user"> SignIn </span></a></li>
-                        <li><a href="#"><span className="glyphicon"> &#xe116; Cart</span></a></li>
+                        <li><NavLink to="/" className="glyphicon glyphicon-home"> Home</NavLink></li>
+                        <li><NavLink to="/app"><span className="glyphicon glyphicon-user"> SignIn </span></NavLink></li>
+                        <li><NavLink to="#"><span className="glyphicon"> &#xe116; Cart</span></NavLink></li>
                     </ul>
                   </div>
                   

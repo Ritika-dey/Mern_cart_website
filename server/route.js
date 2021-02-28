@@ -10,7 +10,7 @@ router.post('/signup' , (req , res) => {
         password : req.body.password
     })
     data.save()
-    .then(response => response.json())
+    .then(result => res.json(result))
     .catch(err => console.log(err))
 })
 
