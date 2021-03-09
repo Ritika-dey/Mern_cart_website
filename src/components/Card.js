@@ -3,6 +3,15 @@ import './style/card.css'
 import data from '../data'
  
 class Card extends Component {
+
+   constructor(props) {
+      super(props)
+   
+      this.state = {
+          cart:[]
+      }
+   }
+
     render() {
         let result = []
         for (let i = 0; i < data.store.length; i++) {
@@ -30,21 +39,4 @@ class Card extends Component {
 
 export default Card
 
-  // <>
-            // {
-            //   data.store.map(item => 
-            //     {   
-            //             item.books.map(details => {  
-            //                if(item.category == this.props.category){
-            //                     <div className="card" key={details.id}>
-            //                         <img src={details.image} alt="card image"/>
-            //                         <h3>{details.name}</h3>
-            //                         <p><i>{details.author}</i></p>
-            //                         <p style={{fontWeight:'bold'}}>Price: 000</p>
-            //                         <button className="btn btn-primary bttn">Add to Cart</button>
-            //                     </div>
-            //            }
-            //         })
-            //    })
-            // }
-            // </>
+  

@@ -12,9 +12,9 @@ function Navbar() {
                         <span className="icon-bar"></span>
                         <span className="icon-bar"></span>
                     </button>
-                    <a className="navbar-brand" href="#">MyBookStore</a>
+                    <a className="navbar-brand" href="/">MyBookStore</a>
                   </div>
-                  <form className="navbar-form navbar-left" action="#">
+                  {/* <form className="navbar-form navbar-left" action="#">
                      <div className="input-group">
                        <input type="text" className="form-control" placeholder="Search" /> 
                        <div className="input-group-btn">
@@ -23,12 +23,12 @@ function Navbar() {
                          </button>
                        </div>
                      </div>
-                  </form>
+                  </form> */}
                   <div className="collapse navbar-collapse" id="myNavbar">
                     <ul className="nav navbar-nav navbar-right">
                         <li><NavLink to="/" className="glyphicon glyphicon-home"> Home</NavLink></li>
                         <li><NavLink to="/app"><span className="glyphicon glyphicon-user"> SignIn </span></NavLink></li>
-                        <li><NavLink to="#"><span className="glyphicon"> &#xe116; Cart</span></NavLink></li>
+                        <li><NavLink to="/cart"><span className="glyphicon"> &#xe116; Cart</span></NavLink></li>
                     </ul>
                   </div>
                   
