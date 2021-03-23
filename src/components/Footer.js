@@ -14,11 +14,11 @@ class Footer extends Component {
                         <p className="glyphicon glyphicon-phone-alt"> : 0000000000</p>
                     
                         <div style={{ width:'80%' , margin:'10px auto', fontSize:'28px' , display:'inline-block'}}>
-                            <a href="#"><i className="fa fa-facebook"></i></a>
-                            <a href="#"><i className="fa fa-instagram" style={{marginLeft:'10px'}}></i></a>
-                            <a href="#"><i className="fa fa-github" style={{marginLeft:'10px'}}></i></a>
-                            <a href="#"><i className="fa fa-google" style={{marginLeft:'10px'}}></i></a>
-                            <a href="#"><i className="fa fa-twitter" style={{marginLeft:'10px'}}></i></a>
+                            <a href="#" target="blank"><i className="fa fa-facebook"></i></a>
+                            <a href="#" target="blank"><i className="fa fa-instagram" style={{marginLeft:'10px'}}></i></a>
+                            <a href="https://github.com/Ritika-dey" target="blank"><i className="fa fa-github" style={{marginLeft:'10px'}}></i></a>
+                            <a href="#" target="blank"><i className="fa fa-google" style={{marginLeft:'10px'}}></i></a>
+                            <a href="#" target="blank"><i className="fa fa-twitter" style={{marginLeft:'10px'}}></i></a>
                         </div>
                     </div>
                 </div>

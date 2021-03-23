@@ -7,11 +7,11 @@
     /* background-image: linear-gradient(to right,#b3ccff ,#1a66ff , black ); */
     width: 100vw;
     height: 100vh; 
-}
+} 
 .signup{
     background-color: rgba(0, 0,0, 0.7); 
     width:60%;
-    height: 80vh;
+    height: 70vh;
     display: flex;
     justify-content: first baseline;
     align-items: flex-start;
@@ -20,12 +20,14 @@
     padding: 50px;
     color: white;
 }
- 
+.register{
+    margin-bottom: 20px;
+}
 label{
     margin: 10px;
     font-weight: bold;
     font-size: large;
-}
+} 
 
 @media(max-width:600px){
     .signup{

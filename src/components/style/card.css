@@ -2,6 +2,7 @@
     transition: 1s;
     display: inline-block; 
     margin:20px;
+    word-wrap: break-word;
     box-shadow:4px 4px 8px black;
     border-radius:5px;
     text-align:center;

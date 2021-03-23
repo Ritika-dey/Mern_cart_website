@@ -9,7 +9,7 @@ class HorScroll extends Component {
             <>
                 {
                     data.store.map(info =>
-                        <div className="horScroll">
+                        <div className="horScroll" key={info.category}>
                             <h2>Genre : {info.category}</h2>
                             <div className="scroll-wrapper"> 
                                 <Card category={info.category} />

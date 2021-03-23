@@ -1,5 +1,4 @@
-import { useEffect } from 'react';
-import './App.css';
+import { useEffect } from 'react'; 
 import Footer from './components/Footer';
 import Genre from './components/Genre';
 import Navbar from './components/Navbar';

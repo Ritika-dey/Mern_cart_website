@@ -2,6 +2,7 @@ import React, { Component } from 'react'
 import axios from 'axios'
 import './style/signup.css' 
 import Navbar from './Navbar'
+import { NavLink } from 'react-router-dom'
 
 export class SignUp extends Component {
 
@@ -123,9 +124,9 @@ export class SignUp extends Component {
         return (
             <div className="main">
             <Navbar />
-            <div className="fluid-container">
+            <div className="fluid-container"> 
                 <form className="container signup" onSubmit={this.onSubmit}>
-                <h2>SignUp || SignIn</h2>
+                
                     <label htmlFor="username">UserName : </label>
                     < input 
                         type="text" 
@@ -170,7 +171,8 @@ export class SignUp extends Component {
                        required
                        style={{width:"85%" , marginBottom:"10px"}} />
 
-                    <input type="submit" className="btn btn-primary" value="submit"/>
+                    <input type="submit" className="register btn btn-primary" value="SignUp"/>
+                    <p>Already registered ? <NavLink to="/signin">SignIn</NavLink></p>
                 </form>
             </div>
             </div>

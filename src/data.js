@@ -8,6 +8,7 @@ export default {
           "id":1,
           "name": "The Barefoot Investor",
           "author": "Scott Pape", 
+          "price": 199.00,
           "people": [
             "Carolina Peters",
             "John Doe",
@@ -22,6 +23,7 @@ export default {
           "id":2,
           "name": "Start with Why",
           "author": "Simon Sinek", 
+          "price": 199.00,
           "people": [
             "Carolina Peters",
             "Samantha William",
@@ -33,6 +35,7 @@ export default {
           "id":29,
           "name": "The Barefoot Investor",
           "author": "Scott Pape", 
+          "price": 199.00,
           "people": [
             "Carolina Peters",
             "John Doe",
@@ -47,6 +50,7 @@ export default {
           "id":3,
           "name": "The Intelligent",
           "author": "Benjamin Graham", 
+          "price": 199.00,
           "people": [
             "John Doe",
             "Maria Smith",
@@ -59,6 +63,7 @@ export default {
           "id":4,
           "name": "Shoe Dog ",
           "author": "Phil Knight", 
+          "price": 199.00,
           "people": [
             "Carolina Peters",
             "John Doe",
@@ -70,6 +75,7 @@ export default {
           "id":30,
           "name": "The Barefoot Investor",
           "author": "Scott Pape", 
+          "price": 199.00,
           "people": [
             "Carolina Peters",
             "John Doe",
@@ -83,6 +89,7 @@ export default {
         {
           "id":5,
           "name": "Influence People",
+          "price": 199.00,
           "author": "Dale Carnegie", 
           "people": [
             "Carolina Peters",
@@ -96,6 +103,7 @@ export default {
         {
           "id":31,
           "name": "The Barefoot Investor",
+          "price": 199.00,
           "author": "Scott Pape", 
           "people": [
             "Carolina Peters",
@@ -110,6 +118,7 @@ export default {
         {
           "id":6,
           "name": "Playing to Win",
+          "price": 199.00,
           "author": "A.G. Laf", 
           "people": [],
           "image": "https://images.unsplash.com/photo-1569738713551-2958195b458a?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=675&q=80"
@@ -117,6 +126,7 @@ export default {
         {
           "id":32,
           "name": "The Barefoot Investor",
+          "price": 199.00,
           "author": "Scott Pape", 
           "people": [
             "Carolina Peters",
@@ -136,6 +146,7 @@ export default {
         {
           "id":7,
           "name": "Astrophysics for People",
+          "price": 199.00,
           "author": "Neil Degrasse Tyson", 
           "people": [
             "John Doe",
@@ -147,6 +158,7 @@ export default {
         {
           "id":8,
           "name": "Sapiens",
+          "price": 199.00,
           "author": "Yuval Noah Harari", 
           "people": [
             "Carolina Peters",
@@ -157,6 +169,7 @@ export default {
         {
           "id":9,
           "name": "A History Of Time",
+          "price": 199.00,
           "author": "Stephen Hawking", 
           "people": [
             "Peter Brown"
@@ -166,6 +179,7 @@ export default {
         {
           "id":33,
           "name": "Sapiens",
+          "price": 199.00,
           "author": "Yuval Noah Harari", 
           "people": [
             "Carolina Peters",
@@ -176,6 +190,7 @@ export default {
         {
           "id":10,
           "name": "The Gene ",
+          "price": 199.00,
           "author": "Siddhartha Mukherjee", 
           "people": [
             "Carolina Peters",
@@ -188,6 +203,7 @@ export default {
         {
           "id":34,
           "name": "Sapiens",
+          "price": 199.00,
           "author": "Yuval Noah Harari", 
           "people": [
             "Carolina Peters",
@@ -198,6 +214,7 @@ export default {
         {
           "id":35,
           "name": "Sapiens",
+          "price": 199.00,
           "author": "Yuval Noah Harari", 
           "people": [
             "Carolina Peters",
@@ -208,6 +225,7 @@ export default {
         {
           "id":36,
           "name": "Sapiens",
+          "price": 199.00,
           "author": "Yuval Noah Harari", 
           "people": [
             "Carolina Peters",
@@ -223,6 +241,7 @@ export default {
         {
           "id":11,
           "name": "It Ends With Us",
+          "price": 199.00,
           "author": "Colleen Hoover", 
           "people": [
             "Carolina Peters",
@@ -233,7 +252,8 @@ export default {
         {
           "id":12,
           "name": "A Horse",
-          "author": "David Grossman , Translated by  Jessica Cohen", 
+          "price": 199.00,
+          "author": "David Grossman ", 
           "people": [
             "Carolina Peters",
             "John Doe",
@@ -247,6 +267,7 @@ export default {
         {
           "id":37,
           "name": "It Ends With Us",
+          "price": 199.00,
           "author": "Colleen Hoover", 
           "people": [
             "Carolina Peters",
@@ -257,6 +278,7 @@ export default {
         {
           "id":13,
           "name": "Nineteen Eighty-Four",
+          "price": 199.00,
           "author": "George Orwell", 
           "people": [
             "Carolina Peters",
@@ -270,6 +292,7 @@ export default {
         {
           "id":38,
           "name": "It Ends With Us",
+          "price": 199.00,
           "author": "Colleen Hoover", 
           "people": [
             "Carolina Peters",
@@ -280,6 +303,7 @@ export default {
         {
           "id":39,
           "name": "It Ends With Us",
+          "price": 199.00,
           "author": "Colleen Hoover", 
           "people": [
             "Carolina Peters",
@@ -290,6 +314,7 @@ export default {
         {
           "id":40,
           "name": "It Ends With Us",
+          "price": 199.00,
           "author": "Colleen Hoover", 
           "people": [
             "Carolina Peters",
@@ -305,6 +330,7 @@ export default {
         {
           "id":14,
           "name": "Flourish",
+          "price": 199.00,
           "author": "Willow Crossley", 
           "people": [
             "Carolina Peters",
@@ -315,6 +341,7 @@ export default {
         {
           "id":15,
           "name": "The Urban Woodsman ",
+          "price": 199.00,
           "author": "Max Bainbridge", 
           "people": [
             "Peter Brown"
@@ -324,6 +351,7 @@ export default {
         {
           "id":20,
           "name": "The Urban Woodsman ",
+          "price": 199.00,
           "author": "Max Bainbridge", 
           "people": [
             "Peter Brown"
@@ -333,6 +361,7 @@ export default {
         {
           "id":21,
           "name": "The Urban Woodsman ",
+          "price": 199.00,
           "author": "Max Bainbridge", 
           "people": [
             "Peter Brown"
@@ -342,6 +371,7 @@ export default {
         {
           "id":22,
           "name": "The Urban Woodsman ",
+          "price": 199.00,
           "author": "Max Bainbridge", 
           "people": [
             "Peter Brown"
@@ -351,6 +381,7 @@ export default {
         {
           "id":23,
           "name": "The Urban Woodsman ",
+          "price": 199.00,
           "author": "Max Bainbridge", 
           "people": [
             "Peter Brown"
@@ -365,6 +396,7 @@ export default {
         {
           "id":16,
           "name": "Elon Musk ",
+          "price": 199.00,
           "author": "Ashlee Vance", 
           "people": [
             "John Doe",
@@ -376,6 +408,7 @@ export default {
         {
           "id":17,
           "name": "Margaret Thatcher ",
+          "price": 199.00,
           "author": "Mr David Cannadine", 
           "people": [],
           "image": "https://images.unsplash.com/photo-1569738713551-2958195b458a?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=675&q=80"
@@ -383,6 +416,7 @@ export default {
         {
           "id":18,
           "name": "Life in Motion",
+          "price": 199.00,
           "author": "Misty Copeland", 
           "people": [
             "Carolina Peters"
@@ -392,6 +426,7 @@ export default {
         {
           "id":19,
           "name": "The John Lennon",
+          "price": 199.00,
           "author": "John Lennon, Hunter Davies",
           "people": [
             "John Doe"
@@ -400,6 +435,7 @@ export default {
         }, {
           "id":24,
           "name": "Margaret Thatcher ",
+          "price": 199.00,
           "author": "Mr David Cannadine", 
           "people": [],
           "image": "https://images.unsplash.com/photo-1569738713551-2958195b458a?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=675&q=80"
@@ -407,6 +443,7 @@ export default {
         {
           "id":25,
           "name": "Margaret Thatcher ",
+          "price": 199.00,
           "author": "Mr David Cannadine", 
           "people": [],
           "image": "https://images.unsplash.com/photo-1569738713551-2958195b458a?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=675&q=80"
@@ -414,6 +451,7 @@ export default {
         {
           "id":26,
           "name": "Margaret Thatcher ",
+          "price": 199.00,
           "author": "Mr David Cannadine", 
           "people": [],
           "image": "https://images.unsplash.com/photo-1569738713551-2958195b458a?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=675&q=80"
@@ -421,6 +459,7 @@ export default {
         {
           "id":27,
           "name": "Margaret Thatcher ",
+          "price": 199.00,
           "author": "Mr David Cannadine", 
           "people": [],
           "image": "https://images.unsplash.com/photo-1569738713551-2958195b458a?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=675&q=80"
@@ -428,6 +467,7 @@ export default {
         {
           "id":28,
           "name": "Margaret Thatcher ",
+          "price": 199.00,
           "author": "Mr David Cannadine", 
           "people": [],
           "image": "https://images.unsplash.com/photo-1569738713551-2958195b458a?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=675&q=80"
